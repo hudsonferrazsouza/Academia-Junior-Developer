@@ -1,5 +1,10 @@
 # Academia-Junior-Developer
+
 SKILL UP, CODE I, CODE, II, CODE, III, CODE IV, COE V, CODE VI
+
+# SKILL UP
+
+|[Assembly PT](https://youtu.be/4isRoVLLiN8)
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
